@@ -1,1 +1,1 @@
-# K-means-Clustering-using-MapReduce-on-Hadoop
+# K-means Clustering using MapReduce on Hadoop
