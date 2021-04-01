@@ -17,4 +17,4 @@
   ```java -jar GetDistribution.jar```
   
 6. MapReduce job on Hadoop:
-  ```hadoop jar MapRedKMeans.jar KMeans /data /clusters```
+  ```hadoop jar MapRedKMeans.jar KMeans /data /clusters 2```
