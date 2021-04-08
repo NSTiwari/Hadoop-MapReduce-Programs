@@ -1,0 +1,9 @@
+apple	orange	grapes
+apple	mango
+orange	apple	chickoo
+apple	grapes	orange
+milk	butter
+butter	cheese
+bread	milk	butter
+cheese	bread	butter	milk
+cheese	apple	orange
