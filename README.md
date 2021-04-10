@@ -2,4 +2,4 @@
 
 A series of some problems solved using MapReduce on Hadoop.
 
-#### Word Count: To count the occurrence of all the words in an input text file.
+__Word Count:__ To count the occurrence of all the words in an input text file.
